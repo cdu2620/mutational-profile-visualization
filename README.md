@@ -1,1 +1,2 @@
 # mutational-profile-visualization
+a more interactive visualization of your mutational profiles. Produces a cluster dendogram, a color scheme linking each study to a color, a graph of the absolute number of mutations per sample, the proportion of mutations that is explained by the mutational signatures, and the relative contribution of individual mutational signatures in each sample. You can input your own file as long as it matches the format of the sample file given.
